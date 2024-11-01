@@ -1,0 +1,105 @@
+#mainHeading {
+  background-color: blueviolet;
+  text-align: center;
+  color: black;
+  font-size: 3rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border-radius: 30px;
+  border: 10px solid goldenrod;
+  box-shadow: 20px 20px 20px;
+}
+
+#keerthi {
+  background-color: maroon;
+  font-size: 2rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  width: 300px;
+}
+
+#keerthiimage {
+  width: 300px;
+  height: 300px;
+}
+
+#keerthipara {
+  background-color: pink;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#priyanka {
+  background-color: maroon;
+  font-size: 2rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  width: 300px;
+}
+
+#priyankaimage {
+  width: 300px;
+  height: 300px;
+}
+
+#priyanakpara {
+  background-color: green;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#sreeleela {
+  background-color: maroon;
+  font-size: 2rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  width: 300px;
+}
+
+#sreeleelaimage {
+  width: 300px;
+  height: 300px;
+}
+
+#sreeleelapara {
+  background-color: red;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#kajal {
+  background-color: maroon;
+  font-size: 2rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  width: 300px;
+}
+
+#kajalimage {
+  width: 300px;
+  height: 300px;
+}
+
+#kajalpara {
+  background-color: olivedrab;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#samantha {
+  background-color: maroon;
+  font-size: 2rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  width: 500px;
+}
+
+#samanthaimage {
+  width: 300px;
+  height: 300px;
+}
+
+#samanthapara {
+  background-color: orange;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#background {
+  background-color: blanchedalmond;
+}
